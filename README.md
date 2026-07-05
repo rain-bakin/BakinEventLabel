@@ -2,7 +2,7 @@
 
 **RPG Developer Bakin プラグイン**: キャストの頭上にテキストラベルを浮遊表示します。
 
-![EventLabel plugin in action](docs/hero.png)
+![EventLabel plugin in action](docs/demo.png)
 
 ---
 
