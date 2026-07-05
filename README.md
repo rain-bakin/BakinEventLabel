@@ -2,8 +2,7 @@
 
 **RPG Developer Bakin プラグイン**: キャストの頭上にテキストラベルを浮遊表示します。
 
-<!-- TODO: デモ GIF をここに埋め込み。仮のパス例: -->
-<!-- ![EventLabel demo](docs/demo.gif) -->
+![EventLabel plugin in action](docs/hero.png)
 
 ---
 
@@ -44,11 +43,13 @@ RPG ツクール系で定番の「頭上ラベル」機能を **RPG Developer Ba
    - **メソッド**: `Show()`
 4. プレイテスト → キャスト名が頭上に表示されます
 
-<!-- TODO: エディタ画面のスクショを Usage セクションに配置 -->
+![Bakin エディタでの設定例](docs/settings-switch.png)
 
 ### 表示名をキャスト名と分けたい
 
 キャスト名に `<LB:xxx>` 記法を含めると、`xxx` の部分だけが頭上に表示されます。管理用の識別名と表示名を分けたいときに便利です。
+
+![Bakin エディタでの設定例](docs/settings-lb.png)
 
 | キャスト名 | 頭上の表示 |
 |---|---|
